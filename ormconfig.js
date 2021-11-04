@@ -48,6 +48,7 @@ if(process.env.NODE_ENV === 'production'){
             ssl: {
               rejectUnauthorized: false
             },
+        },
         entities: [
             "dist/modules/**/*.entity.js"
         ],
