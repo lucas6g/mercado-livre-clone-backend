@@ -43,6 +43,7 @@ if(process.env.NODE_ENV === 'production'){
         database: config.database,
         synchronize: false,
         migrationsRun: true,
+        ssl:true,
         entities: [
             "dist/modules/**/*.entity.js"
         ],
