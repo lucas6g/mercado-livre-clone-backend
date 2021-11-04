@@ -44,6 +44,10 @@ if(process.env.NODE_ENV === 'production'){
         synchronize: false,
         migrationsRun: true,
         ssl:true,
+        extra: {
+            ssl: {
+              rejectUnauthorized: false
+            },
         entities: [
             "dist/modules/**/*.entity.js"
         ],
