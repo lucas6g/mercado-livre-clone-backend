@@ -17,7 +17,7 @@ Um Clone Com as Principais Funcionalidades do maior e-commerce da America Latina
 
 <p>Este é o repositório da API do projeto.</p>
 <ul>
-  <li>Para a versão web, <a href="https://github.com/lucas6g/mercado-livre-front">clique aqui</a>.</li>
+  <li>Para a versão web, <a href="https://github.com/lucas6g/mercado-livre-clone-front">clique aqui</a>.</li>
  
 </ul>
 
@@ -54,7 +54,7 @@ Além das tecnologias abaixo, esta aplicação foi desenvolvida com as melhores 
 
 ### Como executar
 
-<i>Antes de executar estes passos, você precisa ter uma instância do banco acima.</i>
+<i>Antes de executar estes passos, você precisa ter uma instância do banco acima.</i>0
 
 - Clone o repositório ```git clone https://github.com/lucas6g/mercado-livre-clone-backend.git```
 - Vá até o diretório ```cd mercado-livre-clone-backend```
